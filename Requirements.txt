@@ -1,0 +1,3 @@
+pip install yfinance
+pip install fix_yahoo_finance
+pip install pandas-datareader --upgrade
